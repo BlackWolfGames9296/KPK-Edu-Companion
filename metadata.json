@@ -1,0 +1,8 @@
+{
+  "name": "KPK Edu-Companion",
+  "description": "An advanced educational platform for the Khyber Pakhtunkhwa (KPK) Textbook Board, featuring AI-powered tutoring, search-grounded textbook answers, live voice conversation, and visual learning aids.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
